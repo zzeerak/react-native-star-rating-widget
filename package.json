@@ -25,7 +25,6 @@
         "test": "jest"
     },
     "peerDependencies": {
-        "react": "*",
         "react-native": "*",
         "react-native-svg": "*"
     },
